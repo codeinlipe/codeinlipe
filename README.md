@@ -3,11 +3,7 @@
 - 🌱 Estudante de Engenharia de Software e Cibersegurança
 - 👯 Contate-me no email: thiagofelipe0536@gmail.com
 
-<div>
-  <a href="https://github.com/codeinlipe">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=codeinlipe&show_icons=true&theme=radical">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeinlipe&layout=compact">
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
